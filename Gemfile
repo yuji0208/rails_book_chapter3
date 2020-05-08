@@ -63,5 +63,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # slim利用のための２つのgemをアプリケーションに追加
 gem 'slim-rails' #Slimジェネレータを提供
-gem 'html2slim' # HTML形式のファイルをslim形式に変換するerb2slim
+gem 'html2slim' # HTML形式のファイルをslim形式に変換するerb2slimコマンドの提供
 gem 'bootstrap' #bootstrapの導入
