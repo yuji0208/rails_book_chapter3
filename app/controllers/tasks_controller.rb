@@ -6,6 +6,7 @@ class TasksController < ApplicationController
   end
 
   def new
+    @task = Task.new #Task.newはオブジェクト
   end
 
   def edit
